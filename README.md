@@ -1,16 +1,24 @@
-# recipe_app
+# 🍽 Recipe App (Flutter)
 
-A new Flutter project.
+A modern Flutter app with:
+- 🔍 Meal search
+- ❤️ Favorites (offline) pending task
+- 🌍 Location-based recipes
+- 🔔 Smart notifications (Breakfast(8:00 AM), Lunch(2:00 PM), Dinner(10:00 PM))
+- ⚡ Offline-first architecture (BLoC + Local Cache)
 
-## Getting Started
+## 📱 Tech Stack
+- Flutter
+- BLoC
+- Dio
+- Local Storage
+- Notifications
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- Time-based meal suggestions
+- Offline caching
+- Favorites system - pending task
+- Smooth UI animations
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 👨‍💻 Author
+Neel Vora
