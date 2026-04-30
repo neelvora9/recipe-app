@@ -1,0 +1,20 @@
+{
+  "home": "Home",
+  "demo": "Demo",
+  "profile": "Profile",
+  "screen": "Screen",
+  "loginScreen": "Login Screen",
+  "homeScreen {}": "Home Screen {}",
+  "demoScreen {}": "Demo Screen {}",
+  "nextScreen": "Next Screen",
+  "demo2": "Demo 2",
+  "profileScreen": "Profile Screen {}",
+  "loginWithoutEmailPassword": "Login Without Email & Password",
+  "settings": "Settings",
+  "Settings": "Settings",
+  "Change Theme": "Change Theme",
+  "Dark Theme": "Dark Theme",
+  "Change Language": "Change Language",
+  "Continue": "Continue",
+  "Choose Your Style & Language": "Choose Your Style & Language"
+}

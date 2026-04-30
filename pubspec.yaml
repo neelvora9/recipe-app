@@ -1,0 +1,96 @@
+name: myapp
+description: "Layer Kit Project Template - A Flutter architecture package that combines Clean Architecture and MVVM patterns using Provider for state management."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  # - [ A ]
+
+  # - [ B ]
+  bloc: ^8.1.2
+
+  # - [ C ]
+  cupertino_icons: ^1.0.8
+  connectivity_plus: ^5.0.2
+  cached_network_image: ^3.3.1
+
+  # - [ D ]
+  dio: ^5.4.0
+
+  # - [ E ]
+  equatable: ^2.0.5
+
+  # - [ F ]
+  fluttertoast: ^8.2.4
+  flutter_bloc: ^8.1.3
+  flutter_local_notifications: ^20.1.0
+  # - [ G ]
+
+  get_it: ^7.6.4
+  geolocator: ^14.0.2
+  geocoding: ^4.0.0
+  # - [ H ]
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+
+  # - [ I ]
+
+  intl: ^0.20.2
+  image_picker: ^1.0.5
+  # - [ J ]
+
+  # - [ K ]
+  # - [ L ]
+  # - [ M ]
+  # - [ N ]
+  # - [ O ]
+  # - [ P ]
+
+  path_provider: ^2.1.1
+  permission_handler: ^11.1.0
+  # - [ Q ]
+
+  # - [ R ]
+  # - [ S ]
+
+  shared_preferences: ^2.2.2
+  share_plus: ^7.2.1
+  skeletonizer: ^2.1.3
+  # - [ T ]
+  timezone: ^0.10.1
+
+  toastification: ^2.3.0
+
+  # - [ U ]
+  url_launcher: ^6.2.2
+  url_strategy:
+
+  # - [ V ]
+  # - [ W ]
+  # - [ X ]
+  # - [ Y ]
+  # - [ Z ]
+
+  layer_kit:
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - lib/config/lang/jsons/
+

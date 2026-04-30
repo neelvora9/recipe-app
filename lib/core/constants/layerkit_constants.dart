@@ -1,0 +1,15 @@
+const String RS = "₹";
+const String BULLET = "•";
+const String ELLIPSIS = "...";
+const String EMPTY = "";
+const String INFINITY = "∞";
+const String DEGREE = "°";
+const String TRADEMARK = "™";
+const String COPYRIGHT = "©";
+const String REGISTERED = "®";
+const String BULLET_HEAVY = "▪";
+const String SQUARE = "■";
+const String DIAMOND = "♦";
+const String HEART = "♥";
+const String SPADE = "♠";
+const String CLUB = "♣";

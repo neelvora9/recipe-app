@@ -1,0 +1,20 @@
+{
+  "home": "Zuhause",
+  "demo": "Demo",
+  "profile": "Profil",
+  "screen": "Bildschirm",
+  "loginScreen": "Anmelde Bildschirm",
+  "homeScreen {}": "Start Bildschirm {}",
+  "demoScreen {}": "Demo-Bildschirm {}",
+  "nextScreen": "Nächster Bildschirm",
+  "demo2": "Demo 2",
+  "profileScreen {}": "Profil Bildschirm {}",
+  "loginWithoutEmailPassword": "Anmeldung ohne E-Mail & Passwort",
+  "settings": "Einstellungen",
+  "Settings": "Einstellungen",
+  "Change Theme": "Thema ändern",
+  "Dark Theme": "Dunkles Thema",
+  "Change Language": "Sprache ändern",
+  "Continue": "Weiter",
+  "Choose Your Style & Language": "Wähle deinen Stil und deine Sprache"
+}
